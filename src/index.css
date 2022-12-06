@@ -5,9 +5,56 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.app {
+  text-align: center;
+}
+
+nav {
+  margin: 20px 0;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  padding: 10px;
+  color: #555;
+}
+
+a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+form {
+  width: 640px;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: left;
+}
+
+label {
+  display: block;
+  padding: 10px 0;
+  width: 100%;
+  font-size: 20px;
+}
+
+input {
+  width: 100%;
+  padding: 5px;
+  margin: 10px 0;
+  box-sizing: border-box;
+}
+
+input[type="number"], input[type="submit"] {
+  padding: 10px;
+  outline: none;
 }

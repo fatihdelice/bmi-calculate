@@ -1,0 +1,10 @@
+.whats{
+    width: 640px;
+    margin: auto;
+}
+
+.whats h1{
+    font-size: 24px;
+    font-weight: bold;
+    color: light-dark;
+}
