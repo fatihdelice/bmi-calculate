@@ -1,3 +1,4 @@
+[PATİKA PROFILE URL](https://app.patika.dev/fatihdelice)
 # Vücut Kitle Endeksi Hesaplama
 
 Bu uygulama ile kullanıcılar boy ve kilolarını girerek vücut kitle endeksini hesaplayabilirler. Çıkan sonuca göre kullanıcıya bir diyet listesi verilir.
